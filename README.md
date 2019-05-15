@@ -88,3 +88,11 @@ _Turtle_
 This one creates an image with multiple shapes slowly 
 using turtle. 
 ```
+
+# Text Documents
+
+_leet_
+```
+This is a sample of Leet to be used with the Leet
+Translator assignment.
+```
